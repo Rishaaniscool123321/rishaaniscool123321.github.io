@@ -1,10 +1,27 @@
-# Rishaan Premium PWA
+# Rishaan Profile with Admin Panel
 
-Upload every file in this folder to the root of your GitHub Pages repository.
+Public site:
+- `/`
 
-The PWA requires HTTPS or localhost. GitHub Pages provides HTTPS automatically.
+Admin page:
+- `/admin/`
 
-## Certifications
+Admin username:
+- `Rishaaniscool123321`
 
-Open `index.html` and replace the three placeholder certification titles,
-issuers, and dates with the correct certification details.
+Admin password:
+- `GitHub123`
+
+## Important security limitation
+
+GitHub Pages is a static hosting service. The username/password in the admin page
+is visible to anyone who inspects the page source, so it is not secure authentication.
+
+The admin panel saves changes in the current browser and can export a JSON backup.
+To publish changes for all visitors, update `site-config.json` and the carousel files
+in the GitHub repository.
+
+For secure login and automatic publishing, use a backend such as Firebase,
+Supabase, Cloudflare Pages Functions, or Netlify Functions.
+
+Supported admin image uploads: PNG, JPEG, JPG, HEIF, HEIC, DNG and WebP. Videos are rejected.

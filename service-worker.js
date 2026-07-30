@@ -1,11 +1,13 @@
-const CACHE_NAME = "rishaan-profile-v2";
+const CACHE_NAME = "rishaan-profile-v4";
 const APP_SHELL = [
   "./",
   "./index.html",
   "./manifest.webmanifest",
   "./icon-192.png",
   "./icon-512.png",
-  "./Rishaan-Kumar-Aggarwal.vcf"
+  "./Rishaan-Kumar-Aggarwal.vcf",
+  "./site-config.json",
+  "./admin/"
 ];
 
 self.addEventListener("install", (event) => {

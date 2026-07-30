@@ -1,0 +1,40 @@
+{
+  "profile": {
+    "name": "Rishaan Kumar Aggarwal",
+    "phone": "+971527492012",
+    "email": "Rishaan@rjs.ae",
+    "github": "https://github.com/Rishaaniscool123321",
+    "whatsapp": "https://wa.me/971527492012"
+  },
+  "carousel": {
+    "intervalSeconds": 10,
+    "transitionSeconds": 1.0,
+    "autoplay": true,
+    "pauseOnHover": true
+  },
+  "certifications": [
+    {
+      "title": "Add certification title",
+      "issuer": "Issuer",
+      "date": "Completion date",
+      "enabled": true
+    },
+    {
+      "title": "Add certification title",
+      "issuer": "Issuer",
+      "date": "Completion date",
+      "enabled": true
+    },
+    {
+      "title": "Add certification title",
+      "issuer": "Issuer",
+      "date": "Completion date",
+      "enabled": true
+    }
+  ],
+  "appearance": {
+    "showOfflineBadge": true,
+    "showInstallButton": true,
+    "compactMode": false
+  }
+}
