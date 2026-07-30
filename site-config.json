@@ -12,32 +12,6 @@
     "autoplay": true,
     "pauseOnHover": true
   },
-  "certifications": [
-    {
-      "title": "Ethical Hacker Jr.",
-      "issuer": "Redteam Hacker Academy",
-      "date": "Completed \u00b7 4 August 2026",
-      "enabled": true
-    },
-    {
-      "title": "Advanced Penetration Tester",
-      "issuer": "Redteam Hacker Academy",
-      "date": "Completed \u00b7 6 March 2026",
-      "enabled": true
-    },
-    {
-      "title": "Python Programming (Basic)",
-      "issuer": "Elegant Training Center",
-      "date": "Completed \u00b7 12 June",
-      "enabled": true
-    },
-    {
-      "title": "MS Office (Basic)",
-      "issuer": "Elegant Training Center",
-      "date": "In Progress",
-      "enabled": true
-    }
-  ],
   "appearance": {
     "showOfflineBadge": true,
     "showInstallButton": true,
