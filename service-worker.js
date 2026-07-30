@@ -1,4 +1,4 @@
-const CACHE_NAME = "rishaan-profile-v7";
+const CACHE_NAME = "rishaan-profile-v8";
 const APP_SHELL = [
   "./",
   "./index.html",
